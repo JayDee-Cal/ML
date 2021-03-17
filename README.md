@@ -1,2 +1,2 @@
 # ML
-Python basics
+Python sessions by Krish
