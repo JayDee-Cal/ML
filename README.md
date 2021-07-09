@@ -1,2 +1,2 @@
-# ML
+# PYTHON
 Python sessions by Krish
