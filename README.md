@@ -1,2 +1,1 @@
-# PYTHON
-Python sessions by Krish
+Machine Learning
